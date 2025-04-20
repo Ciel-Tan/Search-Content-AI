@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+serviceAccoutKey.json
+__pycache__/
+downloaded_audio.mp3
+test.py
